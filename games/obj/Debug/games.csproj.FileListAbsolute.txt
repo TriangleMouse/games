@@ -1,0 +1,7 @@
+C:\Users\Artem\source\repos\games\games\bin\Debug\games.exe.config
+C:\Users\Artem\source\repos\games\games\bin\Debug\games.exe
+C:\Users\Artem\source\repos\games\games\bin\Debug\games.pdb
+C:\Users\Artem\source\repos\games\games\obj\Debug\games.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\games\games\obj\Debug\games.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\games\games\obj\Debug\games.exe
+C:\Users\Artem\source\repos\games\games\obj\Debug\games.pdb
